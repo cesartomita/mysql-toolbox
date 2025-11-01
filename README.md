@@ -1,4 +1,4 @@
-# 🧰 MySQL Toolkit
+# 🧰 MySQL Toolbox
 
 Um conjunto de queries e comandos que utilizo no dia a dia como desenvolvedor e DBA MySQL.
 
