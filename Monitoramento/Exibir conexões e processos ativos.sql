@@ -1,6 +1,8 @@
 /*
-    Processos em execução:
+    Lista todas as threads (conexões) atualmente abertas no servidor MySQL,
+    mostrando o que cada uma está executando no momento.
 
+    Campos retornados:
     Id: identificador único da thread/conexão.
     User: usuário que iniciou a conexão.
     Host: origem da conexão.

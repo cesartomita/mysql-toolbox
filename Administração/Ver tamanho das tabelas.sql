@@ -7,6 +7,7 @@ SELECT
 FROM
     information_schema.tables
 WHERE
-    table_schema NOT IN ('information_schema', 'mysql', 'performance_schema', 'sys') -- opcional: ignora dbs internos
+    1=1
+    AND table_schema NOT IN ('information_schema', 'mysql', 'performance_schema', 'sys') -- opcional: ignora dbs internos
 ORDER BY
     (data_length + index_length) DESC;
