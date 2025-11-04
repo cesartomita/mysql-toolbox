@@ -6,7 +6,7 @@
         trx_state: Estado atual (ex: RUNNING, LOCK WAIT).
         trx_started: Quando começou.
         trx_query: Última query executada dentro dessa transação.
-        trx_mysql_thread_id: ID da thread que abriu a transação (para correlacionar com PROCESSLIST).
+        trx_mysql_thread_id: ID da thread que abriu a transação (para relacionar com PROCESSLIST).
 */
 
 SELECT 
