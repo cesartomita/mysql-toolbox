@@ -9,6 +9,7 @@ O objetivo deste repositório é servir como um guia pessoal de referência para
 - [Limpar arquivos BINLOGS](Administra%C3%A7%C3%A3o/Limpar%20arquivos%20BINLOGS.sql)
 - [Ver tamanho das tabelas](Administra%C3%A7%C3%A3o/Ver%20tamanho%20das%20tabelas.sql)
 - [Ver tamanho dos bancos de dados](Administra%C3%A7%C3%A3o/Ver%20tamanho%20dos%20bancos%20de%20dados.sql)
+- [Verificar tabelas fragmentadas](Administra%C3%A7%C3%A3o/Verificar%20tabelas%20fragmentadas.sql)
 ## Monitoramento
 
 - [Exibe números de conexões ativas](Monitoramento/Exibe%20n%C3%BAmeros%20de%20conex%C3%B5es%20ativas.sql)
